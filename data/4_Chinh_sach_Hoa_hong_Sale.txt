@@ -1,0 +1,24 @@
+CHÍNH SÁCH LƯƠNG THƯỞNG & HOA HỒNG (COMMISSION) - KHỐI KINH DOANH
+
+1. HOA HỒNG TRỰC TIẾP (DIRECT COMMISSION):
+Đã bao gồm công thức tính chi tiết (Giá gói x % Hoa hồng):
+
+- Gói BASIC:
+  + Giá bán: 499.000 VNĐ.
+  + Hoa hồng: 10%.
+  + Tiền thực nhận: 50.000 VNĐ / 1 gói.
+
+- Gói PRO:
+  + Giá bán: 1.500.000 VNĐ.
+  + Hoa hồng: 15%.
+  + Tiền thực nhận: 225.000 VNĐ / 1 gói.
+
+- Gói WHALE (VIP):
+  + Giá bán: 5.000.000 VNĐ.
+  + Hoa hồng: 20%.
+  + Tiền thực nhận: 1.000.000 VNĐ / 1 gói.
+
+2. THƯỞNG KPI THÁNG (BONUS):
+- Doanh số < 50 triệu: Không thưởng.
+- Doanh số 50 - 100 triệu: Thưởng nóng 2.000.000 VNĐ.
+- Doanh số > 100 triệu: Thưởng nóng 5.000.000 VNĐ + Vào Club "Top Performer".

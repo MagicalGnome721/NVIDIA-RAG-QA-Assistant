@@ -1,0 +1,16 @@
+KỊCH BẢN BÁN HÀNG & XỬ LÝ TỪ CHỐI (SALES SCRIPT)
+
+1. KHI KHÁCH HỎI: "AI CỦA BÊN EM CÓ CAM KẾT LÃI KHÔNG?"
+- Tuyệt đối KHÔNG trả lời: "Cam kết lãi 100%" (Vi phạm pháp luật).
+- Mẫu trả lời chuẩn: "Dạ anh/chị ơi, đầu tư chứng khoán luôn có rủi ro, không ai dám cam kết thắng 100% đâu ạ. Tuy nhiên, AI bên em đóng vai trò là trợ lý lọc nhiễu, giúp anh/chị tránh được các mã rác và tối ưu điểm vào lệnh. Dựa trên dữ liệu quá khứ, AI giúp tăng tỷ lệ thắng lên 75% so với tự đánh theo cảm tính ạ."
+
+2. KHI KHÁCH HỎI: "SAO GIÁ GÓI PRO ĐẮT THẾ (1.5 TRIỆU)?"
+- Chiến thuật: Chia nhỏ chi phí.
+- Mẫu trả lời: "Dạ 1.5 triệu nghe to nhưng chia ra chỉ 50k/ngày, bằng ly trà sữa thôi ạ. Nhưng đổi lại anh/chị được AI canh bảng điện 24/7, chỉ cần tránh được một pha 'đu đỉnh' hoặc bắt được một mã tím (trần) là thừa sức trả tiền gói cước cả năm rồi ạ."
+
+3. KHI KHÁCH HỎI: "DÙNG THỬ ĐƯỢC KHÔNG?"
+- Chính sách: Công ty không có chế độ dùng thử miễn phí (Free Trial) để tránh spam.
+- Giải pháp: "Bên em không có Free Trial, nhưng có chính sách 'Hoàn tiền trong 3 ngày đầu' (Money Back Guarantee) nếu phần mềm bị lỗi kỹ thuật không xem được dữ liệu. Anh/chị cứ yên tâm trải nghiệm ạ."
+
+4. KHI KHÁCH BẢO: "ANH TỰ ĐÁNH HAY HƠN MÁY"
+- Mẫu trả lời: "Dạ em công nhận kinh nghiệm của anh là rất quý. AI sinh ra không phải để dạy anh đánh, mà để giúp anh lọc 1600 mã trên thị trường trong 1 giây - điều mà mắt thường không làm kịp. Anh kết hợp kinh nghiệm của anh + tốc độ của máy thì hiệu quả x2 đó ạ."

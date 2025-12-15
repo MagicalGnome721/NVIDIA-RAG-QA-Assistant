@@ -1,0 +1,33 @@
+DANH SÁCH SẢN PHẨM & GÓI CƯỚC - STOCKTRADERS AI (Nội bộ)
+Cập nhật: Tháng 12/2025
+
+1. TỔNG QUAN SẢN PHẨM:
+- Tên sản phẩm: StockMaster AI Prediction.
+- Công nghệ lõi: Sử dụng mô hình Deep Learning (LSTM & Transformer) phân tích dữ liệu lịch sử 10 năm của HOSE/HNX kết hợp chỉ số Sentiment (cảm xúc thị trường) từ tin tức báo chí.
+- Tỷ lệ chính xác (Backtest): Trung bình 72% - 78% (Lưu ý: Không bao giờ cam kết 100%).
+
+2. CÁC GÓI CƯỚC (SUBSCRIPTION):
+
+A. Gói BASIC (Dành cho F0 tập chơi):
+- Giá: 499.000 VNĐ/tháng.
+- Tính năng:
+  + Xem biểu đồ kỹ thuật cơ bản.
+  + Nhận tín hiệu (Signal) mua/bán chậm 15 phút.
+  + Giới hạn mã theo dõi: 5 mã.
+  + Không có Bot hỗ trợ riêng.
+
+B. Gói PRO (Best Seller - Khuyên dùng):
+- Giá: 1.500.000 VNĐ/tháng (hoặc 12.000.000 VNĐ/năm - Tiết kiệm 30%).
+- Tính năng:
+  + Dữ liệu Realtime (thời gian thực) không trễ.
+  + Tín hiệu AI báo điểm mua/bán ngay trong phiên.
+  + Bộ lọc cổ phiếu (Screener) theo dòng tiền cá mập.
+  + Mời vào nhóm Zalo VIP Pro.
+
+C. Gói WHALE (Gói Cá Mập - VIP):
+- Giá: 5.000.000 VNĐ/tháng.
+- Tính năng:
+  + Tất cả tính năng gói Pro.
+  + Hệ thống cảnh báo rủi ro sập hầm (Crash Alert) sớm 2 phiên.
+  + 1-1 Support: Có chuyên gia phân tích riêng hỗ trợ cơ cấu danh mục.
+  + API Access: Cho phép kết nối Robot tự động đặt lệnh (Auto-trading).

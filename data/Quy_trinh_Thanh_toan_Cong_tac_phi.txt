@@ -1,0 +1,20 @@
+QUY ĐỊNH THANH TOÁN CÔNG TÁC PHÍ (CHI PHÍ ĐI CÔNG TÁC)
+
+1. Chi phí Khách sạn (Lưu trú):
+- Cấp Nhân viên: Tối đa 800.000 VNĐ/đêm.
+- Cấp Quản lý (Manager): Tối đa 1.500.000 VNĐ/đêm.
+- Yêu cầu: Phải có Hóa đơn VAT (Hóa đơn đỏ) xuất cho Công ty Magical Gnome.
+
+2. Chi phí Di chuyển (Taxi/Grab):
+- Khuyến khích sử dụng tài khoản Grab Corporate của công ty để không phải ứng tiền trước.
+- Nếu tự đặt xe ngoài: Tối đa 200.000 VNĐ/ngày (phải có biên lai).
+
+3. Phụ cấp ăn uống (Per diem):
+- Mức chi: 300.000 VNĐ/ngày/người (khoán gọn, không cần hóa đơn ăn uống).
+- Áp dụng cho những ngày đi công tác xa trên 50km.
+
+4. Quy trình thanh toán (Claim):
+- Bước 1: Tập hợp toàn bộ hóa đơn gốc.
+- Bước 2: Điền vào form "Expense Claim" trên Excel.
+- Bước 3: Kẹp hóa đơn + Form gửi về phòng Kế toán trước ngày 05 của tháng sau.
+- Lưu ý: Kế toán sẽ từ chối thanh toán nếu hóa đơn bị mờ, rách hoặc thiếu Mã số thuế công ty.

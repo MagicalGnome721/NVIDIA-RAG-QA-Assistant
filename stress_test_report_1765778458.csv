@@ -1,0 +1,51 @@
+Iteration,Timestamp,Question,Status,Latency (s),Tokens/Sec (Est)
+1,13:00:15,Kinh nghiệm làm việc với GPU có quan trọng không?,PASS,0.58,1.29
+2,13:00:15,Kinh nghiệm làm việc với GPU có quan trọng không?,PASS,0.16,4.58
+3,13:00:17,Làm sao để ứng viên nổi bật hơn người khác?,PASS,1.31,54.7
+4,13:00:17,CUDA là bắt buộc hay điểm cộng?,PASS,0.71,12.41
+5,13:00:18,Kinh nghiệm làm việc với GPU có quan trọng không?,PASS,0.61,1.23
+6,13:00:20,Làm sao để ứng viên nổi bật hơn người khác?,PASS,1.71,70.35
+7,13:00:21,Nhiệm vụ chính của SWQA là gì?,PASS,1.09,29.59
+8,13:00:21,CUDA là bắt buộc hay điểm cộng?,PASS,0.68,12.21
+9,13:00:22,Nhiệm vụ chính của SWQA là gì?,PASS,0.72,22.11
+10,13:00:23,CUDA là bắt buộc hay điểm cộng?,PASS,0.62,8.87
+11,13:00:23,Kinh nghiệm làm việc với GPU có quan trọng không?,PASS,0.61,1.22
+12,13:00:24,Nhiệm vụ chính của SWQA là gì?,PASS,0.46,19.1
+13,13:00:25,Kinh nghiệm làm việc với GPU có quan trọng không?,PASS,1.46,59.93
+14,13:00:28,Nhiệm vụ chính của SWQA là gì?,PASS,2.59,60.46
+15,13:00:29,CUDA là bắt buộc hay điểm cộng?,PASS,0.81,20.7
+16,13:00:29,Kinh nghiệm làm việc với GPU có quan trọng không?,PASS,0.61,1.22
+17,13:00:29,Kinh nghiệm làm việc với GPU có quan trọng không?,PASS,0.16,4.69
+18,13:00:31,Làm sao để ứng viên nổi bật hơn người khác?,PASS,1.72,65.97
+19,13:00:32,CUDA là bắt buộc hay điểm cộng?,PASS,1.06,37.25
+20,13:00:33,Kinh nghiệm làm việc với GPU có quan trọng không?,PASS,0.61,1.22
+21,13:00:34,Làm sao để ứng viên nổi bật hơn người khác?,PASS,0.78,34.03
+22,13:00:35,Kinh nghiệm làm việc với GPU có quan trọng không?,PASS,1.27,44.3
+23,13:00:36,CUDA là bắt buộc hay điểm cộng?,PASS,0.62,8.06
+24,13:00:37,Làm sao để ứng viên nổi bật hơn người khác?,PASS,1.53,56.75
+25,13:00:38,Vị trí này yêu cầu bằng cấp gì?,PASS,0.66,15.99
+26,13:00:39,CUDA là bắt buộc hay điểm cộng?,PASS,0.83,19.61
+27,13:00:40,Vị trí này yêu cầu bằng cấp gì?,PASS,1.56,61.3
+28,13:00:41,Kinh nghiệm làm việc với GPU có quan trọng không?,PASS,1.07,54.04
+29,13:00:43,Làm sao để ứng viên nổi bật hơn người khác?,PASS,1.65,59.0
+30,13:00:43,Vị trí này yêu cầu bằng cấp gì?,PASS,0.6,4.2
+31,13:00:45,Vị trí này yêu cầu bằng cấp gì?,PASS,1.24,76.74
+32,13:00:45,Vị trí này yêu cầu bằng cấp gì?,PASS,0.2,12.72
+33,13:00:46,Nhiệm vụ chính của SWQA là gì?,PASS,0.95,51.31
+34,13:00:46,CUDA là bắt buộc hay điểm cộng?,PASS,0.64,9.72
+35,13:00:47,CUDA là bắt buộc hay điểm cộng?,PASS,0.21,10.74
+36,13:00:49,Vị trí này yêu cầu bằng cấp gì?,PASS,1.88,64.89
+37,13:00:49,CUDA là bắt buộc hay điểm cộng?,PASS,0.56,2.23
+38,13:00:50,Kinh nghiệm làm việc với GPU có quan trọng không?,PASS,0.61,1.22
+39,13:00:50,Vị trí này yêu cầu bằng cấp gì?,PASS,0.38,6.64
+40,13:00:51,Kinh nghiệm làm việc với GPU có quan trọng không?,PASS,0.4,1.85
+41,13:00:51,Vị trí này yêu cầu bằng cấp gì?,PASS,0.38,6.63
+42,13:00:51,Kinh nghiệm làm việc với GPU có quan trọng không?,PASS,0.41,1.83
+43,13:00:53,Làm sao để ứng viên nổi bật hơn người khác?,PASS,1.6,60.33
+44,13:00:54,CUDA là bắt buộc hay điểm cộng?,PASS,0.62,8.04
+45,13:00:54,CUDA là bắt buộc hay điểm cộng?,PASS,0.23,21.29
+46,13:00:54,CUDA là bắt buộc hay điểm cộng?,PASS,0.22,18.49
+47,13:00:55,Vị trí này yêu cầu bằng cấp gì?,PASS,0.88,36.56
+48,13:00:56,Vị trí này yêu cầu bằng cấp gì?,PASS,0.88,74.65
+49,13:00:57,Kinh nghiệm làm việc với GPU có quan trọng không?,PASS,1.57,67.37
+50,13:00:58,CUDA là bắt buộc hay điểm cộng?,PASS,0.63,9.17

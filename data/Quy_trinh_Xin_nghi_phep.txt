@@ -1,0 +1,24 @@
+QUY TRÌNH XIN NGHỈ PHÉP & NGHỈ ỐM (ÁP DỤNG TỪ 01/01/2025)
+
+I. NGUYÊN TẮC CHUNG:
+Mọi đơn xin nghỉ phép phải được thực hiện trên hệ thống phần mềm Gnome-HRM (không nhận đơn giấy hoặc tin nhắn Zalo).
+
+II. QUY TRÌNH THỰC HIỆN:
+
+Bước 1: Đăng ký trên hệ thống
+- Truy cập: https://hrm.gnome.internal/leave-request
+- Chọn loại nghỉ: Phép năm (Annual Leave) hoặc Nghỉ ốm (Sick Leave).
+- Nhập lý do và người bàn giao công việc.
+
+Bước 2: Thời hạn gửi đơn (Deadline):
+- Nghỉ dưới 03 ngày: Gửi trước ít nhất 24 giờ.
+- Nghỉ từ 03 ngày trở lên: Gửi trước ít nhất 01 tuần để sắp xếp nhân sự.
+- Nghỉ đột xuất (ốm đau, tang gia): Phải gọi điện báo ngay cho Quản lý trong vòng 2 giờ đầu giờ làm việc, sau đó bổ sung đơn trên hệ thống trong vòng 48h.
+
+Bước 3: Phê duyệt:
+- Nghỉ < 3 ngày: Leader trực tiếp duyệt.
+- Nghỉ >= 3 ngày: Leader duyệt + Trưởng phòng (Manager) duyệt.
+
+III. LƯU Ý VỀ NGHỈ ỐM:
+- Nghỉ ốm hưởng BHXH bắt buộc phải nộp "Giấy nghỉ hưởng BHXH" bản gốc (G65) của Bệnh viện về phòng HCNS trước ngày 25 hàng tháng.
+- Nếu không có giấy, ngày nghỉ đó sẽ bị tính là Nghỉ không lương (Unpaid Leave).

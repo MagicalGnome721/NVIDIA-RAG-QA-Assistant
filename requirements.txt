@@ -1,0 +1,7 @@
+chainlit
+llama-index
+llama-index-llms-ollama
+llama-index-embeddings-huggingface
+transformers
+sentence-transformers
+pip freeze > requirements.txt

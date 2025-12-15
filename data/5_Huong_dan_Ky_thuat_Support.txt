@@ -1,0 +1,15 @@
+HƯỚNG DẪN KỸ THUẬT & KHẮC PHỤC SỰ CỐ (TROUBLESHOOTING)
+
+1. LỖI KHÔNG ĐĂNG NHẬP ĐƯỢC (Error 401):
+- Nguyên nhân: Sai mật khẩu hoặc Tài khoản đang đăng nhập trên quá 3 thiết bị.
+- Cách xử lý: Hướng dẫn khách vào web, chọn "Quên mật khẩu" hoặc "Đăng xuất khỏi các thiết bị khác".
+
+2. LỖI DỮ LIỆU KHÔNG NHẢY (Realtime bị đứng):
+- Nguyên nhân: Do đường truyền mạng hoặc Cache trình duyệt.
+- Cách xử lý: Bảo khách nhấn Ctrl + F5 để xóa Cache. Nếu vẫn không được, kiểm tra xem khách đã hết hạn gói PRO chưa (Gói Basic bị trễ 15 phút là tính năng, không phải lỗi).
+
+3. CÁCH CÀI ĐẶT ROBOT TỰ ĐỘNG (AUTO-TRADING):
+- Chỉ áp dụng cho gói WHALE.
+- Bước 1: Khách hàng lấy API Key từ công ty chứng khoán (VPS, TCBS...).
+- Bước 2: Nhập API Key vào phần mềm StockMaster > Cài đặt > Kết nối Broker.
+- Bước 3: Cài đặt hạn mức cắt lỗ (Stoploss) tối đa (Ví dụ: -7% tự bán).

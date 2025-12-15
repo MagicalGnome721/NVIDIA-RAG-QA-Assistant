@@ -1,0 +1,16 @@
+HƯỚNG DẪN NHẬN DIỆN KHÁCH HÀNG & GÓI CƯỚC PHÙ HỢP
+
+1. KHÁCH HÀNG F0 (Người mới, vốn < 100 triệu):
+- Đặc điểm: Sợ lỗ, hỏi nhiều, thích an toàn.
+- Gói phù hợp: BASIC (499k) để trải nghiệm.
+- Chiến thuật: Nhấn mạnh tính năng "Cảnh báo rủi ro" để họ yên tâm.
+
+2. KHÁCH HÀNG BẬN RỘN (Dân văn phòng, Bác sĩ, Kỹ sư... Vốn 200tr - 1 tỷ):
+- Đặc điểm: Có tiền nhưng không có thời gian canh bảng, hay đu đỉnh do vào lệnh muộn.
+- Gói phù hợp: PRO (1.5 triệu) hoặc WHALE (5 triệu).
+- Chiến thuật: Nhấn mạnh tính năng "Tín hiệu Realtime" và "Auto-trading" (Tự động đặt lệnh).
+
+3. KHÁCH HÀNG "XA BỜ" (Đang lỗ nặng):
+- Đặc điểm: Tâm lý hoang mang, muốn gỡ nhanh.
+- Gói phù hợp: WHALE (VIP).
+- Chiến thuật: Nhấn mạnh quyền lợi "1-1 Support" - Có chuyên gia hỗ trợ cơ cấu lại danh mục để về bờ an toàn.

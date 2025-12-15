@@ -1,0 +1,6 @@
+Test Case,Status,Latency (s),Est. Speed (Tokens/s)
+Vị trí này yêu cầu bằng cấp gì?,PASS,1.82,47.95
+NVIDIA cần kỹ năng lập trình nào?,PASS,1.12,43.04
+Làm sao để nổi bật khi ứng tuyển vị trí này?,PASS,2,53.69
+CUDA là điểm cộng hay bắt buộc?,PASS,1.42,59.63
+Mô tả trách nhiệm chính của vị trí SWQA?,PASS,1.49,42.85

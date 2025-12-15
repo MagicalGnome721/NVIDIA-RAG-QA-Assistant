@@ -1,0 +1,22 @@
+THÔNG TIN HẠ TẦNG IT - CÔNG TY MAGICAL GNOME (LƯU HÀNH NỘI BỘ)
+
+1. DANH SÁCH WIFI:
+- Wifi Khách hàng (Tầng 1):
+  + SSID: Gnome_Guest
+  + Password: ChaoMungQuyKhach
+  
+- Wifi Nội bộ (Tầng 2 - Tầng 5):
+  + SSID: Gnome_Internal_5G
+  + Password: Gnome@Secure#2025 (Tuyệt đối không chia sẻ ra ngoài)
+  
+- Wifi Sếp/Phòng họp:
+  + SSID: Gnome_Boss
+  + Password: hoi_chi_my_thuat
+
+2. MÁY IN:
+- Máy in tầng 2 (Canon 2900): IP 192.168.1.200
+- Máy in màu tầng 4 (HP Color): IP 192.168.1.205
+- Cách kết nối: Vào Run > Gõ \\192.168.1.10 > Chọn máy in cần kết nối.
+
+3. SỰ CỐ IT:
+- Nếu máy tính hỏng hoặc quên mật khẩu, liên hệ anh Tuấn IT (Ext: 105) hoặc email: helpdesk@gnome.com.vn

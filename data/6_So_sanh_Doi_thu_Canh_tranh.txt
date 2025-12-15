@@ -1,0 +1,11 @@
+BẢNG SO SÁNH ĐỐI THỦ CẠNH TRANH (BATTLECARD) - NỘI BỘ
+
+1. StockTraders AI vs. MÔI GIỚI TRUYỀN THỐNG (Broker chạy bằng cơm):
+- Điểm đau (Pain point) của Broker: Có cảm xúc (sợ hãi/tham lam), hay phím hàng lùa gà, không trực canh bảng 24/7 được.
+- Điểm mạnh của StockTraders AI: Máy móc vô cảm (kỷ luật 100%), canh bảng 24/7, tốc độ xử lý dữ liệu nhanh gấp 1000 lần người thường.
+=> Câu chốt sale: "Anh thuê một bạn môi giới giỏi cũng phải trả phí, nhưng bạn ấy còn phải ngủ. Còn AI bên em canh cho anh cả lúc anh ngủ, mà phí chỉ bằng 2 bát phở/ngày."
+
+2. StockTraders AI vs. CÁC APP KHÁC (FireAnt, Fialda...):
+- Đối thủ: Mạnh về tin tức, dữ liệu thô (Khách phải tự đọc tự phân tích).
+- StockTraders AI: Mạnh về TÍN HIỆU (Signal). AI "nhai" dữ liệu rồi nhả ra kết quả Mua/Bán luôn.
+=> Câu chốt sale: "Các app kia giống như đưa cho anh rổ rau bắt anh tự nấu. Còn StockTraders AI là dọn sẵn mâm cơm, anh chỉ việc gắp."
