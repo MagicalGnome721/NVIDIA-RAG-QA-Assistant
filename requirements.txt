@@ -1,7 +1,16 @@
-chainlit
-llama-index
-llama-index-llms-ollama
-llama-index-embeddings-huggingface
-transformers
-sentence-transformers
-pip freeze > requirements.txt
+# --- Core RAG Dependencies ---
+langchain
+ollama
+pydantic
+pandas
+numpy
+
+# --- Testing & Automation Dependencies ---
+# Bắt buộc cho test_rag_qa.py và GitHub Actions CI/CD
+pytest
+
+# --- Optional: Data Processing / Utilities ---
+# Nếu bạn dùng bất kỳ thư viện nào để đọc JD/tài liệu
+# Ví dụ:
+# pypdf
+# python-dotenv

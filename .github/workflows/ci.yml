@@ -1,0 +1,38 @@
+# File: .github/workflows/ci.yml
+
+name: Automated RAG QA & Test Matrix Check
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  # Cho phép chạy thủ công
+  workflow_dispatch:
+
+jobs:
+  run_qa_tests:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.10
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+          
+      - name: Install dependencies
+        run: |
+          # Yêu cầu cài đặt Pytest và các thư viện RAG khác
+          pip install -r requirements.txt
+          pip install pytest 
+          
+      - name: Run Pytest Test Harness
+        # Lệnh chạy pytest và tạo báo cáo
+        run: |
+          pytest test_rag_qa.py
+          
+      - name: Test Success Confirmation
+        run: echo "Automated QA Tests Passed Successfully."
