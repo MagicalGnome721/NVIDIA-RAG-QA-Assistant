@@ -24,7 +24,7 @@ Dự án này tập trung vào hai loại kiểm thử chính:
 2.  **Performance & Stress Testing (Key QA Focus):**
     * Sử dụng script `stability_test.py` để chạy **50+ chu kỳ liên tục** nhằm mô phỏng tải nặng (high-load traffic).
     * Giám sát **VRAM, nhiệt độ GPU** (qua `nvidia-smi`) và phân tích dữ liệu hiệu năng bằng Pandas.
-
+3.  **Continuous Integration (CI):** Thiết lập **GitHub Actions** để tự động chạy Test Harness sau mỗi lần commit.
 ## 📊 3. Kết quả Benchmark (Trên NVIDIA RTX 3060 12GB)
 
 | Metric | Chi tiết | Kết quả | Insight |
